@@ -6008,7 +6008,8 @@ a.text-gray-dark:hover {
 body > * {
   background-size: cover;
   background-repeat: none;
-  background-position: center; }
+  background-position: center;
+  font-family: "微軟正黑體",-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
 
 colorwhite {
   color: 　 #FFF; }
